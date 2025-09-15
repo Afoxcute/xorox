@@ -82,22 +82,3 @@ In the fast-paced world of memecoins, Iris provides a cutting-edge advantage for
 
 _"An Autonomous AI Agent that browses TikTok to help you find the hottest memecoins before they pump."_
 
-## Important Links
-
-**Demo Video** | https://www.canva.com/design/DAGZKlSQ674/sKdyTpeTJ7oqJn85P8o2cg/watch?utm_content=DAGZKlSQ674&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8e1a118963
-
-**Deck** | https://www.canva.com/design/DAGZKe_9vEc/eRRZxCtQpk1QxFSjz3ZT2A/view?utm_content=DAGZKe_9vEc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f286b75b1
-
-**Github** | https://github.com/gabrielantonyxaviour/zorox
-
-**Twitter** | https://x.com/iris_internet
-
-**Dexscreener** | https://dexscreener.com/solana/a9wxjtzgkvz12xtqex4jufhmermi7tfwrp1nujkh8lyq
-
-**Live App** | https://zorox-ai.vercel.app/
-
----
-
-Made with ❤️ by Gabriel Antony Xaviour
-
-X [@gabrielaxyeth](https://x.com/gabrielaxyeth)
